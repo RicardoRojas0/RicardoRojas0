@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=32F715&width=600&height=60&lines=Welcome+to+my+GitHub!;Machine+%26+Deep+Learning+enthusiast;Eager+about+data%2C+math+and+stats;Lifelong+Learner)](https://git.io/typing-svg)
 
-
+## About Me
 - 🔭 I’m currently working at [Blend](https://blend.com/)
 - 🌱 I’m currently learning A3C Implementation
 - 👯 I’m looking to collaborate on Machine & Deep Learning Projects
