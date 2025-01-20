@@ -14,6 +14,6 @@
 ## Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,apple,aws,bash,discord,docker,flask,git,github,grafana,kubernetes,mysql,pkl,postgres,postman,pycharm,py,pytorch,replit,sklearn,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=anaconda,apple&theme=dark" />
   </a>
 </p>
