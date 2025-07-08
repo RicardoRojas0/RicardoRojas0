@@ -4,7 +4,7 @@
 
 ## About Me
 - 🔭 I’m currently working at [Blend](https://blend.com/)
-- 🌱 I’m currently learning A3C Implementation
+- 🌱 I’m currently learning MCP and Agent Creation from scratch
 - 👯 I’m looking to collaborate on Machine & Deep Learning Projects
 - 💬 Ask me about Data Science and ML Engineering
 - 📫 How to reach me: Send me an email to [ricardorojasm1991@gmail.com](mailto:ricardorojasm1991@gmail.com)
